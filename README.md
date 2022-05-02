@@ -33,4 +33,4 @@ Hello, welcome to SernHandler's public roadmap. Below, you can find what's going
 - [ ] Twitter Account
 - [ ] YouTube Tutorials
 
-`05/1/2022 is the last update date.`
+`05/02/2022 is the last update date.`
