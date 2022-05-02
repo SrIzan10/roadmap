@@ -28,4 +28,9 @@ Hello, welcome to SernHandler's public roadmap. Below, you can find what's going
 
 - [ ] JavaScript Templates
 
+## Other
+
+- [ ] Twitter Account
+- [ ] YouTube Tutorials
+
 `05/1/2022 is the last update date.`
