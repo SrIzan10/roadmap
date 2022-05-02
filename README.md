@@ -1,6 +1,6 @@
 # Roadmap
 
-Hello, welcome to SernHandler's public roadmap. Below, you can find what's going to implement, what's going to fix and what's already abeen fixed or implemented. Keep in mind, some of these things **may not** be implemented.
+Hello, welcome to SernHandler's public roadmap. Below, you can find what's going to implement, what's going to fix and what's already fixed or implemented. Keep in mind, some of these things **may not** be implemented.
 
 ## [Handler](https://github.com/sern-handler/handler) 
 
