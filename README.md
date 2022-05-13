@@ -8,10 +8,10 @@ Hello, welcome to SernHandler's public roadmap. Below, you can find what's going
 - [ ] Command Ratelimitler
 - [ ] Permission handler for both slash and chat commands
 
-✅ ContextMenu Handler <br>
-✅ Multiple prefix support for both global and server <br>
-✅ Markup Builder <br>
-✅ Bitfield Helpers <br>
+- [x] ContextMenu Handler <br>
+- [x] Multiple prefix support for both global and server <br>
+- [x] Markup Builder <br>
+- [x] Bitfield Helpers <br>
 
 ## [CLI](https://github.com/sern-handler/cli)
 
@@ -30,7 +30,6 @@ Hello, welcome to SernHandler's public roadmap. Below, you can find what's going
 
 ## Other
 
-- [ ] Twitter Account
-- [ ] YouTube Tutorials
+*no content*
 
-`05/02/2022 is the last update date.`
+`13/02/2022 is the last update date.`
