@@ -37,4 +37,4 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 
 - [ ] Example Bot
 
-`13/02/2022 is the last update date.`
+`30/05/2022 is the last update date.`
