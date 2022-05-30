@@ -13,6 +13,11 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 - [x] Markup Builder <br>
 - [x] Bitfield Helpers <br>
 
+## [Website](https://github.com/sern-handler/website)
+- [ ] Set uo GitHub pages on website
+- [ ] Set up kelsny docgen on it
+- [ ] Design a good landing page
+
 ## [CLI](https://github.com/sern-handler/cli)
 
 - [ ] Bundle System
@@ -30,6 +35,6 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 
 ## Other
 
-*no content*
+- [ ] Example Bot
 
 `13/02/2022 is the last update date.`
