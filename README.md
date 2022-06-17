@@ -14,9 +14,9 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 - [x] Bitfield Helpers <br>
 
 ## [Website](https://github.com/sern-handler/website)
-- [ ] Set up GitHub pages on website
-- [ ] Set up kelsny docgen on it
-- [ ] Design a good landing page
+- [x] Set up GitHub pages on website
+- [x] Set up kelsny docgen on it
+- [x] Design a good landing page
 
 ## [CLI](https://github.com/sern-handler/cli)
 
