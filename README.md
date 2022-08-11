@@ -4,8 +4,8 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 
 ## [Handler](https://github.com/sern-handler/handler) 
 
-- [ ] Autocomplete Interaction 
-- [ ] Command Ratelimitler
+- [x] Autocomplete Interaction 
+- [x] Command Ratelimitler (via plugins)
 - [ ] Permission handler for both slash and chat commands
 
 - [x] ContextMenu Handler <br>
@@ -35,6 +35,6 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 
 ## Other
 
-- [ ] Example Bot
+- [x] Example Bot
 
-`17/06/2022 is the last update date.`
+`08/11/2022 is the last update date.`
