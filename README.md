@@ -31,7 +31,7 @@ Hello, welcome to our public roadmap. Below, you can find what's going to implem
 
 ## [Templates](https://github.com/sern-handler/templates)
 
-- [ ] JavaScript Templates
+- [x] JavaScript Templates
 
 ## Other
 
